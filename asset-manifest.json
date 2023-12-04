@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vin_decoder/static/css/main.0d5b2924.css",
-    "main.js": "/vin_decoder/static/js/main.257323c7.js",
+    "main.js": "/vin_decoder/static/js/main.fdd734b2.js",
     "static/media/modely.jpeg": "/vin_decoder/static/media/modely.286d39c578f7d24f32b4.jpeg",
     "static/media/VinLogo.png": "/vin_decoder/static/media/VinLogo.2c4060bd0e157a59c34b.png",
     "index.html": "/vin_decoder/index.html",
     "main.0d5b2924.css.map": "/vin_decoder/static/css/main.0d5b2924.css.map",
-    "main.257323c7.js.map": "/vin_decoder/static/js/main.257323c7.js.map"
+    "main.fdd734b2.js.map": "/vin_decoder/static/js/main.fdd734b2.js.map"
   },
   "entrypoints": [
     "static/css/main.0d5b2924.css",
-    "static/js/main.257323c7.js"
+    "static/js/main.fdd734b2.js"
   ]
 }
